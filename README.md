@@ -16,4 +16,4 @@ Steps:
 7. Then, the moves are compared to calculate the score.
 8. If the Player scores 5 before AI does, then he wins otherwise he loses.
 9. At the end of the game, the player can press 's' to reset the score values and new game will start when 's' is pressed again.
-10. The player can wuit the game anytime by pressing the 'q' key.
+10. The player can quit the game anytime by pressing the 'q' key.
