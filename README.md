@@ -16,6 +16,6 @@ Steps:
 7. The AI move is calculated by selecting a digit randomly from 1 to 3 and the corresponding image from the Resources folder is displayed.
 8. Then, the moves are compared to calculate the score.
 9. If the Player scores 5 before AI does, then he wins otherwise he loses.
-10. The winner or loser message is displayed on the screen
+10. The 'winner' or 'loser' message is displayed on the screen
 11. At the end of the game, the player can press 's' to reset the score values and new game will start when 's' is pressed again.
 12. The player can quit the game anytime by pressing the 'q' key.
