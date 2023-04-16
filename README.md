@@ -12,8 +12,9 @@ Steps:
 3. Once the player press the 's' key, the game starts.
 4. HandDetector class from the cvzone package is used for detecting the player's hand.
 5. A timer is set for 3 seconds at the end of which the player move and the AI move is calculated.
-6. The player move is calculated by counting the numbers of fingers that are up when the timer ends.
-7. Then, the moves are compared to calculate the score.
-8. If the Player scores 5 before AI does, then he wins otherwise he loses.
-9. At the end of the game, the player can press 's' to reset the score values and new game will start when 's' is pressed again.
-10. The player can quit the game anytime by pressing the 'q' key.
+6. The player move is calculated by counting the numbers of fingers that are up when the timer ends. Player Move is assigned values corresponding to the images in the Resources folder.
+7. The AI move is calculated by selecting a digit randomly from 1 to 3 and the corresponding image from the Resources folder is displayed.
+8. Then, the moves are compared to calculate the score.
+9. If the Player scores 5 before AI does, then he wins otherwise he loses.
+10. At the end of the game, the player can press 's' to reset the score values and new game will start when 's' is pressed again.
+11. The player can quit the game anytime by pressing the 'q' key.
